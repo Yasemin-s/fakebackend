@@ -1,0 +1,29 @@
+{
+    "program1": [
+        {"gun" : "P1Pazartesi", "sabah" : "P1 haşlanmış yumurta","ogle" : "P1fasulye", "araogun" : "P1meyve","aksam" : "P1ıspanaklı börek"},
+        {"gun" : "P1Salı", "sabah" : "P1 yemek kaşığı lor","ogle" : "P1pırasa", "araogun" : "P1çerez","aksam" : "P1patatesli börek"},
+        {"gun" : "P1Çarşamba", "sabah" : "P1 ceviz","ogle" : "P1pilav", "araogun" : "P1abur cubur","aksam" : "P1çay"},
+        {"gun" : "P1Perşembe", "sabah" : "P1 dal maydanoz","ogle" : "P1lahana", "araogun" : "P1tatlı","aksam" : "P1kokoreç"},
+        {"gun" : "P1Cuma", "sabah" : "P1 salatalık","ogle" : "P1çorba", "araogun" : "P1poğaça","aksam" : "P1sucuk"},
+        {"gun" : "P1Cumartesi", "sabah" : "P1 domates","ogle" : "P1adana kebap", "araogun" : "P1pasta","aksam" : "P1ciğer"},
+        {"gun" : "P1Pazar", "sabah" : "P1 wasa","ogle" : "P1yeşil mercimek + patlıcan", "araogun" : "P1turta","aksam" : "P1köfte"}
+    ],
+    "program2": [
+        {"gun" : "P2Pazartesi", "sabah" : "P2 haşlanmış yumurta","ogle" : "P2fasulye", "araogun" : "P2meyve","aksam" : "P2ıspanaklı börek"},
+        {"gun" : "P2Salı", "sabah" : "P2 yemek kaşığı lor","ogle" : "P2pırasa", "araogun" : "P2çerez","aksam" : "P2patatesli börek"},
+        {"gun" : "P2Çarşamba", "sabah" : "PP2 ceviz","ogle" : "P2pilav", "araogun" : "P2abur cubur","aksam" : "P2çay"},
+        {"gun" : "P2Perşembe", "sabah" : "P2 dal maydanoz","ogle" : "P2lahana", "araogun" : "P2tatlı","aksam" : "P2kokoreç"},
+        {"gun" : "P2Cuma", "sabah" : "P2 salatalık","ogle" : "P2çorba", "araogun" : "P2poğaça","aksam" : "P2sucuk"},
+        {"gun" : "P2Cumartesi", "sabah" : "P2 domates","ogle" : "P2adana kebap", "araogun" : "P2pasta","aksam" : "P2ciğer"},
+        {"gun" : "P2Pazar", "sabah" : "P2 wasa","ogle" : "P2yeşil mercimek + patlıcan", "araogun" : "P2turta","aksam" : "P2köfte"}
+    ],
+    "program3": [
+        {"gun" : "P3Pazartesi", "sabah" : "P3 haşlanmış yumurta","ogle" : "P3fasulye", "araogun" : "P3meyve","aksam" : "P3ıspanaklı börek"},
+        {"gun" : "P3Salı", "sabah" : "P3 yemek kaşığı lor","ogle" : "P3pırasa", "araogun" : "P3çerez","aksam" : "P3patatesli börek"},
+        {"gun" : "P3Çarşamba", "sabah" : "P3 ceviz","ogle" : "P3pilav", "araogun" : "P3abur cubur","aksam" : "P3çay"},
+        {"gun" : "P3Perşembe", "sabah" : "P3 dal maydanoz","ogle" : "P3lahana", "araogun" : "P3tatlı","aksam" : "P3kokoreç"},
+        {"gun" : "P3Cuma", "sabah" : "P3 salatalık","ogle" : "P3çorba", "araogun" : "P3poğaça","aksam" : "P3sucuk"},
+        {"gun" : "P3Cumartesi", "sabah" : "P3 domates","ogle" : "P3adana kebap", "araogun" : "P3pasta","aksam" : "P3ciğer"},
+        {"gun" : "P3Pazar", "sabah" : "P3 wasa","ogle" : "P3yeşil mercimek + patlıcan", "araogun" : "P3turta","aksam" : "P3köfte"}
+    ]
+}
